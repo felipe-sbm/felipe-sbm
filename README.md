@@ -3,7 +3,6 @@
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipe-sbm.github.io/bio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sbm/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipe_sbm)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/UCMUiWmrb-6lc7QZpeTztoqg)
 
 ![Felipe SBM GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-sbm&show_icons=true&theme=dracula&count_private=true)
 
