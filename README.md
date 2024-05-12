@@ -9,7 +9,7 @@
 [![Felipe SBM GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-sbm&show_icons=true&theme=dracula&count_private=true&size_weight=2&count_weight=2)](https://github.com/felipe-sbm) <🌀/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-sbm&layout=compact&theme=dracula)](https://github.com/felipe-sbm)
 
-## Technologies I usually use: ✨
+## Technologies I usually use:
 
 <div style="display: inline_block">
   
