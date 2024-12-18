@@ -51,7 +51,7 @@ I’m not the best, far from a perfect developer, but I really enjoy making a fe
 ### Last works:
 - [Construction of my orchertra's website 🎼](https://github.com/felipe-sbm/shalom)
 - [Creation of PIAF - UFRN 📚](https://github.com/felipe-sbm/piaf-ufrn)
-- [Development of Spiral's 🌀 website](https://github.com/spiral-sbm)
+- [Development of Otsuki's 🌄 website](https://github.com/otsuki)
 - [My Portfolio in Vue.js + Vite ⚡](https://fsbm.vercel.app)
 - [Trying to finish Calculus 🖩](https://github.com/felipe-sbm/calculus)
 
