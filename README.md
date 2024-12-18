@@ -27,15 +27,15 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,electron,materialui,next,nuxtjs,react,tailwind,ts,vite,vue"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,electron,materialui,next,nuxtjs,react,sass,svelte,tailwind,ts,vite,vue"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cs,express,java,julia,lua,net,nodejs,rails,ruby,spring"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,cs,express,flask,java,julia,lua,net,nodejs,rails,ruby,spring"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgresql,sqlserver"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=firebase,mariadb,mongodb,mysql,postgresql,sqlserver"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps</td>
@@ -43,7 +43,7 @@
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=blender,figma,ps,vscode,visualstudio,wordpress"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=blender,figma,linux,ps,ubuntu,vscode,visualstudio,wordpress"/></td>
     </tr>
 </table>
 
