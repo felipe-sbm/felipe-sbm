@@ -7,13 +7,13 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipe.sbm@icloud.com)
 <img height="40cm" src="https://media.tenor.com/REjeyuOJ2jEAAAAi/%D0%BA%D0%BE%D0%BB%D0%BE%D0%B1%D0%BE%D0%BAicq-emoji.gif">
 
-<p font-size="14px">Hey, Samuel here. I'm a fullstack developer and a IT support technician.</p>
+<p font-size="14px">Hey, Samuel here. I'm a full-stack developer and an IT support technician.</p>
 <p font-size="7px">Read more about me:</p>
 
   - 🤓 graduated in IT by IMD at UFRN
   - ⚛️ getting a degree in interdisciplinary Bachelor in Science & Technology at UFRN
   - 🔰 私はリオグランデ・ド・ノルテ連邦大学で日本語を学んでいます
-  - 🤔 I love seeing computers in practice, network cables, Arduinos, hard drivers fascinate me a lot!
+  - 🤔 I love seeing computers in practice, network cables, ESP32, Arduinos, and hard drivers fascinate me a lot!
 
 <div align="center"
   <a href="https://github.com/felipe-sbm">
@@ -47,13 +47,14 @@
     </tr>
 </table>
 
-I’m not the best, far from a perfect developer, but I really enjoy making a few projects. Look at some of them below.
+I’m not the best and far from a perfect developer, but I enjoy making a few projects. Look at some of them below.
 ### Last works:
-- [Construction of my orchertra's website 🎼](https://github.com/felipe-sbm/shalom)
+- [Construction of my orchestra's website 🎼](https://github.com/felipe-sbm/shalom)
 - [Creation of PIAF - UFRN 📚](https://github.com/felipe-sbm/piaf-ufrn)
-- [Development of Otsuki's 🌄 website](https://github.com/otsuki.dev)
+- [Development of Otsuki's startup 🌄](https://github.com/otsuki-dev)
 - [My Portfolio in Vue.js + Vite ⚡](https://fsbm.vercel.app)
 - [Trying to finish Calculus 🖩](https://github.com/felipe-sbm/calculus)
+- [Creating Insomnia Machine ☕](https://github.com/felipe-sbm/insomnia-machine)
 
 ##
 <div align="center">
