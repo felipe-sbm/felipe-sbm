@@ -1,4 +1,4 @@
-## こんにちは! 👋🏽
+## みなさんこんにちは！ 👋🏽
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fsbm.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sbm/)
@@ -12,6 +12,7 @@
 
   - 🤓 graduated in IT by IMD at UFRN
   - ⚛️ getting a degree in interdisciplinary Bachelor in Science & Technology at UFRN
+  - 🧠 I'm pursuing another degree, now as a Technician in Artificial Intelligence at IMD, UFRN
   - 🔰 私はリオグランデ・ド・ノルテ連邦大学で日本語を学んでいます
   - 🤔 I love seeing computers in practice, network cables, ESP32, Arduinos, and hard drivers fascinate me a lot!
 
